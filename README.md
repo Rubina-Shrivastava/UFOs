@@ -13,4 +13,4 @@
 ## Summary:
 ### This webpage has some drawbacks like, there is no button to click that tells the user that the table will update after you hit enter and  search field is "case-sensitive". The table will not update if you do not enter exactly how the data is stored and does not allow for partial entries.
 ###  We can have some additional recommendations for further development:
-#### We can make the page more interactive by adding click buttons.  In every field, we can add N/A in dropdown List, so user can understand that it is not nessesury to fill every feild, and we can provide one additional link to guide user how to search.
+### We can make the page more interactive by adding click buttons.  In every field, we can add N/A in dropdown List, so user can understand that it is not nessesury to fill every feild, and we can provide one additional link to guide user how to search.
